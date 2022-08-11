@@ -15,6 +15,9 @@ h3 {
   font-size:100%
   font-family: sans-serif;
 }
+p {
+  border: left;
+}
 img {
   border: 3px solid yellow
 }
