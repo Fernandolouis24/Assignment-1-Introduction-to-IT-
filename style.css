@@ -1,10 +1,10 @@
 body {
-  background-color: White;
+  background-color: black;
 }
 h1 {
   color: LightSeaGreen;
-  font-size:400%;
-  font-family: monospace;
+  font-size:300%;
+  font-family: sans-serif;
 }
 img {
   border: 3px solid yellow
