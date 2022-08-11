@@ -1,6 +1,7 @@
 body {
   background-color: whitesmoke;
   border: 50px solid slategrey
+  margin: 50px;
 }
 h1 {
   color: LightSeaGreen;
