@@ -2,6 +2,7 @@ body {
   background-color: whitesmoke;
   border: 30px solid slategrey;
   margin: 0px;
+  padding: 30px;
 }
 h1 {
   color: LightSeaGreen;
