@@ -6,6 +6,10 @@ h1 {
   font-size:300%;
   font-family: sans-serif;
 }
+h2 {
+  font-size:200%;
+  font-family: sans-serif;
+}
 img {
   border: 3px solid yellow
 }
