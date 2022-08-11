@@ -10,6 +10,7 @@ h2 {
   font-size:200%;
   font-family: sans-serif;
 }
-img {
+img1 {
   border: 3px solid yellow
+  float:left;
 }
