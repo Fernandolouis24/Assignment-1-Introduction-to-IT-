@@ -6,3 +6,6 @@ h1 {
   font-size:100%;
   font-family: monospace;
 }
+img {
+  border: 500px solid black
+}
