@@ -21,6 +21,10 @@ p {
   font-size: 100%;
   font-family: sans-serif;
 }
+ul {
+  font-size: 100%;
+  font-family: sans-sans-serif;
+}
 img {
   border: 3px solid yellow
 }
