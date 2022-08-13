@@ -6,6 +6,7 @@ body {
 }
 nav {
   color: black;
+  border:auto;
   float: right;
   width: auto;
   margin-top: 8px;
