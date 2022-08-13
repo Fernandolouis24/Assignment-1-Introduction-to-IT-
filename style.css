@@ -4,6 +4,9 @@ body {
   margin: 0px;
   padding: 30px;
 }
+nav {
+  float: right;
+}
 h1 {
   color: #776550;
   font-size:300%;
