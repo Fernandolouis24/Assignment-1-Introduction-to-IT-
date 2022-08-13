@@ -6,10 +6,10 @@ body {
 }
 nav {
   color: black;
-  border:3px solid: blue;
   float: right;
   width: auto;
   margin-top: 8px;
+  margin-right: 8px;
 }
 h1 {
   color: #776550;
