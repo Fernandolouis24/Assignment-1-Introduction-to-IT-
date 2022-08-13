@@ -5,7 +5,10 @@ body {
   padding: 30px;
 }
 nav {
+  color: black;
   float: right;
+  width: auto;
+  margin-top: 8px;
 }
 h1 {
   color: #776550;
